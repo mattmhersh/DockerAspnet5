@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to ASP.NET 5 Preview
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
@@ -40,3 +41,7 @@ The ASP.NET Team
 * [Publish to the file system](http://go.microsoft.com/fwlink/?LinkId=518019)
 
 We would love to hear your [feedback](http://go.microsoft.com/fwlink/?LinkId=518015)
+=======
+# DockerAspnet5
+Docker file for Aspnet 5
+>>>>>>> a32b4a34b63ea0861726ac5b7abc202c051d603a
