@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Welcome to ASP.NET 5 Preview
 
 We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
@@ -33,15 +32,3 @@ The ASP.NET Team
 * [Add Web APIs with MVC 6](http://go.microsoft.com/fwlink/?LinkId=518009)
 * [Add client packages using Bower](http://go.microsoft.com/fwlink/?LinkID=517848)
 
-#### DEPLOY
-* [Run your app locally](http://go.microsoft.com/fwlink/?LinkID=517851)
-* [Run your app on ASP.NET Core 5](http://go.microsoft.com/fwlink/?LinkID=517852)
-* [Run commands in your 'project.json'](http://go.microsoft.com/fwlink/?LinkID=517853)
-* [Publish to Microsoft Azure Web Sites](http://go.microsoft.com/fwlink/?LinkID=398609)
-* [Publish to the file system](http://go.microsoft.com/fwlink/?LinkId=518019)
-
-We would love to hear your [feedback](http://go.microsoft.com/fwlink/?LinkId=518015)
-=======
-# DockerAspnet5
-Docker file for Aspnet 5
->>>>>>> a32b4a34b63ea0861726ac5b7abc202c051d603a
