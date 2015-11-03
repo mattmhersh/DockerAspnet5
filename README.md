@@ -1,12 +1,4 @@
-# Welcome to ASP.NET 5 Preview
-
-We've made some big updates in this release, so it’s **important** that you spend a few minutes to learn what’s new.
-
-ASP.NET 5 has been rearchitected to make it **lean** and **composable**. It's fully **open source** and available on [GitHub](http://go.microsoft.com/fwlink/?LinkID=517854).
-Your new project automatically takes advantage of modern client-side utilities like [Bower](http://go.microsoft.com/fwlink/?LinkId=518004) and [npm](http://go.microsoft.com/fwlink/?LinkId=518005) (to add client-side libraries) and [Gulp](http://go.microsoft.com/fwlink/?LinkId=518007) (for client-side build and automation tasks).
-
-We hope you enjoy the new capabilities in ASP.NET 5 and Visual Studio 2015.
-The ASP.NET Team
+# Welcome to ASP.NET 5 MVC Web Application
 
 ### You've created a new ASP.NET 5 project. [Learn what's new](http://go.microsoft.com/fwlink/?LinkId=518016)
 
