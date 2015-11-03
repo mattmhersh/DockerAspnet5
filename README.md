@@ -1,6 +1,4 @@
-# Welcome to ASP.NET 5 MVC Web Application
-
-### You've created a new ASP.NET 5 project. [Learn what's new](http://go.microsoft.com/fwlink/?LinkId=518016)
+# Welcome to an ASP.NET 5 MVC Web Application
 
 ### This application consists of:
 * Sample pages using ASP.NET MVC 6
